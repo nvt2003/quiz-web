@@ -30,7 +30,7 @@ npm install
 Chạy ứng dụng React:
 npm start
 
-Truy cập ứng dụng qua http://localhost:3000
+
 
 Dự tính tiếp theo:
 Hoàn thiện nốt phần test
